@@ -8,3 +8,5 @@
  
 - Currently I'm peersuing "Bachelors of Technology" from "Artificial Intelligence and Machine Learning" branch and learning "Machine Learning".
 - Currently I have completed the certifications in "Data Science with Python" and searching for collaboration in any project to apply my skills and knowlwdge in the real world Projects.
+<br>
+Author : Aman Mishra
